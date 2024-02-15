@@ -1,0 +1,55 @@
+.headernav {
+    display: flex; 
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: solid 1px #F2F2F2;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;   
+    height: 50px;
+}
+
+.logo {
+    width: 140px;
+    height: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.nav-links {
+    list-style: none;
+    text-align: center;
+}
+
+.user {
+    padding-left: 20px;
+}
+
+.user img
+{
+    width: 30px;
+    height: auto;
+    margin-left: auto;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding-left: 20px;
+    
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-links button {
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    padding: 8px;
+    border: none;
+}
+
