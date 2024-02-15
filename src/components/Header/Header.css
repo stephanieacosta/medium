@@ -31,3 +31,30 @@ h1 {
   color: inherit;
   color: black;
 }
+
+.icons {
+  display: flex;
+  align-items: flex-start;
+  
+}
+
+.icons1 {
+  margin-right: 450px;
+  display: flex;
+  }
+
+  .icons2 {
+    
+    display: flex;
+    }
+  
+  .icons svg {
+    margin-left: 10px;
+  }
+  
+  .nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #F2F2F2;
+    border-top: solid 1px #F2F2F2;
+  }
