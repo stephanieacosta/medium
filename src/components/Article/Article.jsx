@@ -8,7 +8,7 @@ function Article() {
           <img
             src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Bdz6s4_QyPto9ddw"
             alt="Computer"
-            class="imgarticle"
+            className="imgarticle"
           />
           <figcaption>
             Photo by{" "}
@@ -109,7 +109,7 @@ function Article() {
             using JavaScript:
           </p>
           <br></br>
-          <div class="code">
+          <div className="code">
             <pre>
               <code>{`// Example 1
 
@@ -140,7 +140,7 @@ const debounce = (callback, time = 300) => {
             as follows:
           </p>
           <br></br>
-          <div class="code">
+          <div className="code">
             <pre>
               <code>{`// Example 2
 
