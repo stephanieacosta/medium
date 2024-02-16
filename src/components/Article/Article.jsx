@@ -1,5 +1,3 @@
-import "./Article.css";
-
 function Article() {
   return (
     <>
